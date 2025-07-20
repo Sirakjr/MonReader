@@ -1,0 +1,35 @@
+# Images folder (large dataset)
+images/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (if any)
+*.pth
+*.pt
+*.h5
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp 
